@@ -1,0 +1,1 @@
+var tree={"dirs":{"assets":{"files":["kiwapp_config.js"]},"js":{"files":["app.js","bootstrap.js","start.js"],"dirs":{"routers":{"files":["router.js"]},"views":{"files":["home.js","masterView.js","root.js"]}}},"layout":{"files":["body.html","footer.html","header.html"]},"partials":{"files":["home.html","root.html"]},"styles":{"files":["style.css"]}}};

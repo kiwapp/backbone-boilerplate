@@ -1,0 +1,5 @@
+node_modules/
+build/
+src/vendor/*
+!src/vendor/parseConnector/
+i18n/languages.json

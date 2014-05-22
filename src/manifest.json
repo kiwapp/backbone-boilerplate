@@ -1,0 +1,25 @@
+{
+  "app_info": {
+    "name": "Serval Kiwapp Boilerplate",
+    "author": "Procheo",
+    "codename": "1.4",
+    "author_email": "aurelien@procheo.fr",
+    "description": "Kiwapp Boilerplate for Backbone.js"
+  },
+  "config": {
+    "typedef": {},
+    "fields": {
+      "lang": {
+        "kw_type": "array",
+        "arraytype": "string",
+        "label": "Select your languages available for this shop (the order is important).",
+        "field_label": "Which languages for your application ?"
+      },
+      "url": {
+        "kw_type": "string",
+        "label": "The webservice URL for the form submission (with http:// or https://).",
+        "field_label": "Choose your webservice url."
+      }
+    }
+  }
+}
